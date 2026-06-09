@@ -164,7 +164,7 @@ function Catalog({ selected, onToggle, onNext, onBack }) {
       <div className={'selbar' + (count > 0 ? ' show' : '')}>
         <div className="count">
           <b>{count}</b> {count > 1 ? 'envies sélectionnées' : 'envie sélectionnée'}
-          <span>{count > 1 ? 'joueuse, j'aime ça 🐸' : 'et si on en ajoutait une autre ?'}</span>
+          <span>{count > 1 ? "joueuse, j'aime ça 🐸" : 'et si on en ajoutait une autre ?'}</span>
         </div>
         <button className="btn" onClick={onNext}>
           Suite <span className="arrow">→</span>
