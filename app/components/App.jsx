@@ -71,7 +71,6 @@ function Intro({ onStart }) {
   return (
     <section className="screen intro">
       <div className="intro-inner">
-        <p className="eyebrow">Une invitation · Cette semaine</p>
         <h1>
           <span className="name">Ysaline<em>,</em></span>
         </h1>

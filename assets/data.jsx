@@ -31,10 +31,10 @@ window.DATES = [
   {
     id: "frites",
     num: "03",
-    tag: "Complet",
+    tag: "Victime de son succès",
     tagClass: "full",
     locked: true,
-    stamp: "Complet",
+    stamp: "Victime de son succès",
     stampClass: "",
     lockText: "Victime de son succès",
     title: "Les Frites Des Voisins",
